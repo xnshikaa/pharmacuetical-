@@ -1,0 +1,77 @@
+
+TABLET DEFECT DETECTION MODEL TRAINING REPORT
+Generated: 2025-07-14 03:00:18
+
+OVERALL PERFORMANCE:
+- Total Images: 13
+- Correct Detections: 6
+- False Positives: 36
+- False Negatives: 7
+- Overall Accuracy: 46.15%
+
+DETAILED RESULTS:
+
+File: Screenshot 2025-07-14 at 2.54.33 AM.png
+Expected Defects: cracks
+Detected Defects: discoloration, coating_defect
+Correct: 0, False Positives: 2, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.55.07 AM.png
+Expected Defects: cracks
+Detected Defects: discoloration, contamination, deformation
+Correct: 0, False Positives: 3, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.54.51 AM.png
+Expected Defects: cracks
+Detected Defects: discoloration, deformation, coating_defect
+Correct: 0, False Positives: 3, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.54.41 AM.png
+Expected Defects: cracks
+Detected Defects: discoloration, contamination, coating_defect
+Correct: 0, False Positives: 3, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.54.57 AM.png
+Expected Defects: cracks
+Detected Defects: discoloration, deformation
+Correct: 0, False Positives: 2, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.57.34 AM.png
+Expected Defects: discoloration
+Detected Defects: discoloration, contamination, coating_defect
+Correct: 1, False Positives: 2, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.57.14 AM.png
+Expected Defects: discoloration
+Detected Defects: discoloration, contamination, deformation, coating_defect
+Correct: 1, False Positives: 3, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.57.22 AM.png
+Expected Defects: discoloration
+Detected Defects: discoloration, contamination, coating_defect
+Correct: 1, False Positives: 2, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.57.31 AM.png
+Expected Defects: discoloration
+Detected Defects: discoloration, contamination, coating_defect
+Correct: 1, False Positives: 2, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.56.53 AM.png
+Expected Defects: contamination
+Detected Defects: crack, discoloration, contamination, deformation, coating_defect
+Correct: 1, False Positives: 4, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.56.59 AM.png
+Expected Defects: contamination
+Detected Defects: discoloration, contamination, deformation, coating_defect
+Correct: 1, False Positives: 3, False Negatives: 0
+
+File: Screenshot 2025-07-14 at 2.55.41 AM.png
+Expected Defects: coatingdefects
+Detected Defects: discoloration, contamination, coating_defect
+Correct: 0, False Positives: 3, False Negatives: 1
+
+File: Screenshot 2025-07-14 at 2.57.07 AM.png
+Expected Defects: coatingdefects
+Detected Defects: discoloration, contamination, deformation, coating_defect
+Correct: 0, False Positives: 4, False Negatives: 1

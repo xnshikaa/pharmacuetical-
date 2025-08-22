@@ -1,0 +1,194 @@
+{
+  "total_images": 13,
+  "correct_detections": 6,
+  "false_positives": 36,
+  "false_negatives": 7,
+  "accuracy": 0.46153846153846156,
+  "detailed_results": [
+    {
+      "filepath": "training_data/cracks/Screenshot 2025-07-14 at 2.54.33\u202fAM.png",
+      "expected": [
+        "cracks"
+      ],
+      "detected": [
+        "discoloration",
+        "coating_defect"
+      ],
+      "correct": 0,
+      "false_positives": 2,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/cracks/Screenshot 2025-07-14 at 2.55.07\u202fAM.png",
+      "expected": [
+        "cracks"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "deformation"
+      ],
+      "correct": 0,
+      "false_positives": 3,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/cracks/Screenshot 2025-07-14 at 2.54.51\u202fAM.png",
+      "expected": [
+        "cracks"
+      ],
+      "detected": [
+        "discoloration",
+        "deformation",
+        "coating_defect"
+      ],
+      "correct": 0,
+      "false_positives": 3,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/cracks/Screenshot 2025-07-14 at 2.54.41\u202fAM.png",
+      "expected": [
+        "cracks"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "coating_defect"
+      ],
+      "correct": 0,
+      "false_positives": 3,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/cracks/Screenshot 2025-07-14 at 2.54.57\u202fAM.png",
+      "expected": [
+        "cracks"
+      ],
+      "detected": [
+        "discoloration",
+        "deformation"
+      ],
+      "correct": 0,
+      "false_positives": 2,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/discoloration/Screenshot 2025-07-14 at 2.57.34\u202fAM.png",
+      "expected": [
+        "discoloration"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/discoloration/Screenshot 2025-07-14 at 2.57.14\u202fAM.png",
+      "expected": [
+        "discoloration"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "deformation",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 3,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/discoloration/Screenshot 2025-07-14 at 2.57.22\u202fAM.png",
+      "expected": [
+        "discoloration"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/discoloration/Screenshot 2025-07-14 at 2.57.31\u202fAM.png",
+      "expected": [
+        "discoloration"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 2,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/contamination/Screenshot 2025-07-14 at 2.56.53\u202fAM.png",
+      "expected": [
+        "contamination"
+      ],
+      "detected": [
+        "crack",
+        "discoloration",
+        "contamination",
+        "deformation",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 4,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/contamination/Screenshot 2025-07-14 at 2.56.59\u202fAM.png",
+      "expected": [
+        "contamination"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "deformation",
+        "coating_defect"
+      ],
+      "correct": 1,
+      "false_positives": 3,
+      "false_negatives": 0
+    },
+    {
+      "filepath": "training_data/coating_defects/Screenshot 2025-07-14 at 2.55.41\u202fAM.png",
+      "expected": [
+        "coatingdefects"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "coating_defect"
+      ],
+      "correct": 0,
+      "false_positives": 3,
+      "false_negatives": 1
+    },
+    {
+      "filepath": "training_data/coating_defects/Screenshot 2025-07-14 at 2.57.07\u202fAM.png",
+      "expected": [
+        "coatingdefects"
+      ],
+      "detected": [
+        "discoloration",
+        "contamination",
+        "deformation",
+        "coating_defect"
+      ],
+      "correct": 0,
+      "false_positives": 4,
+      "false_negatives": 1
+    }
+  ]
+}
